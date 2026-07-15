@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5c0371/v1
 canonical_location: https://kanripo.org/bkk/KR5c0371/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 唐嵩高山啟母廟碑銘
   identifiers:
@@ -31,9 +31,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5c0371_000.yaml, hash: 'sha256:f69be450f3ad948b81920690eaefc4b3d01186f3c24725d09bb17966a1042cc7'}
+  - {seq: 0, filename: KR5c0371_000.yaml, hash: 'sha256:46f68cdb79ad305c49fdda75fcc237cf0745dddad5c2810ba170b8fcd98ae350'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5c0371_000.markers.yaml, hash: 'sha256:305aa4564bbe1635d0b44779a7df696dac3a7183bbc94b8167740366a116010b'}
+  - {seq: 0, role: markers, filename: assets/KR5c0371_000.markers.yaml, hash: 'sha256:64f10d45abfae4e2ae82f22eda3dc642662fe16674ac3b461b8fa5d5048b83e2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -45,4 +45,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:be258ba35e0956af7eecf8502c48d5c2815bbef8e14f4e0646fbe3bdc12a5c3a
+hash: sha256:3deb6f9c96902060612c3f460f1d51b51a6042d2d2593ff0ccc151212f69563a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
